@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\obj\Debug\gaymersRiseUp.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\obj\Debug\gaymersRiseUp.Form1.resources
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\obj\Debug\gaymersRiseUp.Properties.Resources.resources
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\obj\Debug\gaymersRiseUp.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\obj\Debug\gaymersRiseUp.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\bin\Debug\gaymersRiseUp.exe.config
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\bin\Debug\gaymersRiseUp.exe
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\bin\Debug\gaymersRiseUp.pdb
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\obj\Debug\gaymersRiseUp.exe
+C:\Users\asus\source\repos\gaymersRiseUp\gaymersRiseUp\obj\Debug\gaymersRiseUp.pdb

@@ -63,16 +63,6 @@ namespace gaymersRiseUp
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click_1);
             // 
-            // richTextBox3
-            // 
-            this.richTextBox3.Location = new System.Drawing.Point(512, 24);
-            this.richTextBox3.Name = "richTextBox3";
-            this.richTextBox3.Size = new System.Drawing.Size(291, 120);
-            this.richTextBox3.TabIndex = 3;
-            this.richTextBox3.Text = resources.GetString("richTextBox3.Text");
-            this.richTextBox3.BackColor = Color.DarkGray;
-            this.richTextBox3.ForeColor = Color.OrangeRed;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
